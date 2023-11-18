@@ -23,7 +23,7 @@ sudo docker run -d --name=postgres -p 5435:5432 -v postgres-volume:/var/lib/post
 ```
 
 3. in your IDE install the following dependencies
-````bash
+```bash
  pip install -r requeriments.txt
 ```
 ## Setting up Kafka:
