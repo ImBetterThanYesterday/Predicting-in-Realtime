@@ -14,7 +14,7 @@ To start using the project, follow these steps:
 Setup the PostgreSQL Database Connection:
 1.Clone the repository 
 ```bash
-https://github.com/ImBetterThanYesterday/Workshop_spotify.git
+https://github.com/ImBetterThanYesterday/Predicting-in-Realtime.git
 ```
 
 2. Make sure Docker is running and run the PostgreSQL container:
