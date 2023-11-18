@@ -10,8 +10,6 @@ The dataset utilized in this endeavor originates from Kaggle, presenting happine
 ## Getting Started
 To start using the project, follow these steps:
 
-
-Setup the PostgreSQL Database Connection:
 1.Clone the repository 
 ```bash
 https://github.com/ImBetterThanYesterday/Predicting-in-Realtime.git
