@@ -18,9 +18,10 @@ https://github.com/ImBetterThanYesterday/Workshop_spotify.git
 ```
 
 2. Make sure Docker is running and run the PostgreSQL container:
-````bash
+```bash
 sudo docker run -d --name=postgres -p 5435:5432 -v postgres-volume:/var/lib/postgresql/data -e POSTGRES_PASSWORD=mysecretpass postgres
 ```
+
 3. in your IDE install the following dependencies
 ````bash
  pip install -r requeriments.txt
